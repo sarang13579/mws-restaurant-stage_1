@@ -28,5 +28,9 @@ This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://w
 
 Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future proofing JavaScript code. As much as possible, try to maintain use of ES6 in any additional JavaScript you write. 
 
+### Credits and Tools used:
 
+1. Starter code by Udacity.
+2. Leafletjs, an open-source JavaScript library for mobile-friendly interactive maps, & Mapbox, an open source mapping platform for custom designed maps.
+3. Presentations by Mohammed Riaad and Doug Brown.
 
